@@ -1,7 +1,7 @@
 # Legal Information
 
 ## Login
-[Login](./Login.html)
+[Login](./login.html)
 
 ## Terms of Service
 [View Terms of Service](./TERMS.md)
